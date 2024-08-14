@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-project-11/",
+    "build": "vite build --base=/html_css_110_SokolovskyiAnatolii/",
     "preview": "vite preview"
   },
   "devDependencies": {
